@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=5B86E5&center=true&vCenter=true&width=650&lines=%EC%83%88%EB%A1%9C%EC%9A%B4+%EA%B8%B0%EC%88%A0%EC%9D%84+%ED%83%90%EA%B5%AC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EB%B0%B0%EC%9A%B4+%EB%82%B4%EC%9A%A9%EC%9D%84+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C+%EC%97%B0%EA%B2%B0%ED%95%A9%EB%8B%88%EB%8B%A4;%ED%8C%80%EA%B3%BC+%ED%95%A8%EA%BB%98+%EB%B0%B0%EC%9A%B0%EA%B3%A0+%EC%84%B1%EC%9E%A5%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" />
 
-<a href="https://app.notion.com/p/1d15e3277247801faf9cfbe05ca4167e">
+<a href="https://succulent-tornado-b92.notion.site/1d15e3277247801faf9cfbe05ca4167e">
 
 <img src="https://img.shields.io/badge/%EB%85%B8%EC%85%98%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
