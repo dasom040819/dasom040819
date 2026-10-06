@@ -10,7 +10,7 @@
 
 </div>
 
-## 👋 안녕하세요, 서다솜입니다
+## 안녕하세요!
 
 새로운 기술과 낯선 문제를 두려워하지 않고, 배운 내용을 실제 서비스로 연결하는 개발자입니다. 프로젝트와 스터디, 동아리 활동을 통해 빠르게 배우고 팀원들과 함께 성장하는 과정을 좋아합니다.
 
@@ -38,20 +38,7 @@
 | **협업 도구**      | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />            |
 
 
-## 📊 GitHub 활동
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dasom040819&show_icons=true&hide_border=true&title_color=5B86E5&text_color=59636E&icon_color=36D1DC&bg_color=00000000&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasom040819&layout=compact&hide_border=true&title_color=5B86E5&text_color=59636E&bg_color=00000000&langs_count=6" />
-
-</div>
-
 ## 🚀 프로젝트
-
-조직 프로젝트와 개인 프로젝트를 구분하지 않고, 프로젝트 단위로 정리했습니다.
-
 
 | 프로젝트                                                                                  | 프로젝트 기간                 | 소속 / 저장소                | 프로젝트 요약                                             | 내가 맡은 역할                                             |
 | ------------------------------------------------------------------------------------- | ----------------------- | ----------------------- | --------------------------------------------------- | ---------------------------------------------------- |
